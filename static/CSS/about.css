@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+html {
+    background: url(https://i.pinimg.com/originals/f2/60/1e/f2601e023e82f19058c9efb7db2c9485.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(https://wallpapertag.com/wallpaper/full/6/7/8/143838-large-tech-source-wallpaper-2560x1440.jpg);
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+/*Icono de la navbar*/
+.navbar-brand img{
+    padding: 2px 2px;
+    height:30px;
+    width: 30px;
+}
+
+.navbar-nav {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.uk-card {
+    background-color: rgba(255, 255, 255, 0.490);
+}
+
+.ftr {
+    font-size: 29;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.400);
+}

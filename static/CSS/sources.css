@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.dribbble.com/users/1106178/screenshots/4175222/orb.gif);
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+/*Icono de la navbar*/
+.navbar-brand img{
+    padding: 2px 2px;
+    height:30px;
+    width: 30px;
+}
+
+.navbar-nav {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+/*Contenido del sitio*/
+
+.contents {
+    padding: 17px;
+    border-radius: 7px;
+    box-sizing: content-box;
+}
+
+.ftr {
+    font-size: 29;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.400);
+}

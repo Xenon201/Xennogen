@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.dribbble.com/users/1106178/screenshots/4175222/orb.gif);
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+/*Icono de la navbar*/
+.navbar-brand img{
+    padding: 2px 2px;
+    height:30px;
+    width: 30px;
+}
+
+.navbar-nav {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+/*Parte tecnicas del sitio*/
+
+
+/*Contenido del sitio*/
+h1 {
+    padding: 7px;
+}
+
+.sub-content {
+    padding: 17px;
+    border-radius: 7px;
+    background-color: rgba(140, 71, 255, 0.4);
+}
+
+.sections {
+    font-size: 20px
+}
+
+.ftr {
+    font-size: 29;
+    border-radius: 7px;
+    background-color: rgba(0, 0, 0, 0.400);
+}
